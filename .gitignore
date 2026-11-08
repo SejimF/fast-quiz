@@ -1,2 +1,4 @@
-./code-by-ai-example/.claude
+/code-by-ai-example/.claude/*
+/code-by-ai-example/CLAUDE.md
+/code-by-ai-example/PROMPTS.md
 .idea
